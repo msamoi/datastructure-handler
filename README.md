@@ -21,6 +21,7 @@ the data.
 
 This might be a better visualization:
 
+```
 HEADER_B[D]
     HEADER_A[K]
         ITEM9[Dark Khaki]
@@ -38,3 +39,4 @@ HEADER_B[B]
         ITEM9[Burnt Umber]
     HEADER_A[P]
         ITEM9[Blue Pantone]
+```
